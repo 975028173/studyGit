@@ -6,5 +6,6 @@ public class MyController {
         System.out.println("hot-fix first");
         System.out.println("master second");
         System.out.println("hot-fix second");
+        System.out.println("hot-fix 3");
     }
 }
